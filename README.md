@@ -7,3 +7,5 @@ Plant Life - https://plant-life-arunuxid.netlify.app/
 Type Checker - https://type-checker-arunuxid.netlify.app/
 
 Jenna Buchholz - https://jenna-buchholz-arunuxid.netlify.app/
+
+Brux - https://brux-arunuxid.netlify.app/
